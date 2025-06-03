@@ -93,3 +93,6 @@ npm install mime-types
 
 wget wget https://github.com/isaacmares/whatsapp/archive/refs/heads/main.zip
 unzip main.zip
+cd whatsapp-main
+rm crearDocker.sh
+node otroserver.js
