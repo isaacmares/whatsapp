@@ -1,3 +1,47 @@
+clear
+echo -e "\033[36m"
+echo "  _________       __                     __ ____  ___"
+echo " /   _____/____ _/  |_ __ _________  ____   _____/  |\\   \\/  /"
+echo " \\_____  \\\\__  \\\\   __\\  |  \\_  __ \\/    \\_/ __ \\   __\\\\     /"
+echo " /        \\/ __ \\|  | |  |  /|  | \\/   |  \\  ___/|  | /     \\"
+echo "/_______  (____  /__| |____/ |__|  |___|  /\\___  >__|/___/\\  \\"
+echo "        \\/     \\/                     \\/     \\/         \\_/"
+echo -e "\033[0m"
+
+sleep 3s
+
+echo -e "\e[33m  ________                                    _____  __"
+echo -e " /  _____/_____    _____ _____    ___________/ ____\\/  |_"
+echo -e "/   \\  ___\\__  \\  /     \\\\\\__  \\  /  ___/  _ \\   __\\\\   __\\"
+echo -e "\\    \\_\\  \\/ __ \\|  Y Y  \\/ __ \\_\\\\___ (  <_> )  |   |  |"
+echo -e " \\______  (____  /__|_|  (____  /____  >____/|__|   |__|"
+echo -e "        \\/     \\/      \\/     \\/     \\/\e[0m"
+
+sleep 2s
+clear
+
+
+echo -e "               \e[1;35m🚀 SaturnoVPN\e[0m          "
+sleep 2s
+echo -e "\e[34m                                        _.oo."
+echo -e "                 _.u[[/;:,.         .odMMMMMM'"
+echo -e "              .o888UU[[[/;:-.  .o@P^    MMM^"
+echo -e "             oN88888UU[[[/;::-.        dP^"
+echo -e "            dNMMNN888UU[[[/;:--.   .o@P^"
+echo -e "           ,MMMMMMN888UU[[/;::-. o@^"
+echo -e "           NNMMMNN888UU[[[/~.o@P^"
+echo -e "           888888888UU[[[/o@^-.."
+echo -e "          oI8888UU[[[/o@P^:--.."
+echo -e "       .@^  YUU[[[/o@^;::---.."
+echo -e "     oMP     ^/o@P^;:::---.."
+echo -e "  .dMMM    .o@^ ^;::---..."
+echo -e " dMMMMMMM@^\`       \`^^^^"
+echo -e "YMMMUP^"
+echo -e " ^^\e[0m"
+sleep 2s
+echo -e "\e[1;35m🚀 CREANDO SERVER WHATSAPP\e[0m - \e[1;36mSaturnet IsaacM\e[0m"
+
+
 apt install npm
 mkdir whatsapp
 cd whatsapp
@@ -27,7 +71,21 @@ apt update && apt install -y \
     libappindicator3-1
 
 npm install whatsapp-web.js
-
+echo -e "\e[34m                                        _.oo."
+echo -e "                 _.u[[/;:,.         .odMMMMMM'"
+echo -e "              .o888UU[[[/;:-.  .o@P^    MMM^"
+echo -e "             oN88888UU[[[/;::-.        dP^"
+echo -e "            dNMMNN888UU[[[/;:--.   .o@P^"
+echo -e "           ,MMMMMMN888UU[[/;::-. o@^"
+echo -e "           NNMMMNN888UU[[[/~.o@P^"
+echo -e "           888888888UU[[[/o@^-.."
+echo -e "          oI8888UU[[[/o@P^:--.."
+echo -e "       .@^  YUU[[[/o@^;::---.."
+echo -e "     oMP     ^/o@P^;:::---.."
+echo -e "  .dMMM    .o@^ ^;::---..."
+echo -e " dMMMMMMM@^\`       \`^^^^"
+echo -e "YMMMUP^"
+echo -e " ^^\e[0m"
 npm install qrcode
 npm install express
 npm install multer
